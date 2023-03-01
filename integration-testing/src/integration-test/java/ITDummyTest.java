@@ -10,5 +10,6 @@ public class ITDummyTest {
     @Test
     public void dummyTest() {
         assertTrue(true);
+        System.out.println("true");
     }
 }
